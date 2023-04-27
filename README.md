@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTllY2I4MTZiNWMzZDU4YjYxOWJiNWM0YWY3ZTlkNDgxNDlmOTU0YyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/L8K62iTDkzGX6/giphy.gif))
+[![MasterHead](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTllY2I4MTZiNWMzZDU4YjYxOWJiNWM0YWY3ZTlkNDgxNDlmOTU0YyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/L8K62iTDkzGX6/giphy.gif))
 )](https://rishavchanda.io
 )
 
