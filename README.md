@@ -50,7 +50,6 @@
 
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="https://twitter.com/@charansai_b"><img src="https://skillicons.dev/icons?i=twitter" /></a>
   <a href="https://instagram.com/charan_sai110"><img src="https://skillicons.dev/icons?i=instagram" /></a>
   <a href="https://www.hackerrank.com/@charansai2003110"><img src="https://skillicons.dev/icons?i=hackerrank" /></a>
 </p>
