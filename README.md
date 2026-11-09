@@ -119,7 +119,7 @@ Postgraduate Advanced Computer Science student with commercial experience in dat
 
 ### Activity & Statistics
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=py,postgres,mysql,js,html,css,fastapi,flask,nextjs,docker,aws,linux,git,github,postman" alt="Tech Stack Icons" />
 </p>
 
