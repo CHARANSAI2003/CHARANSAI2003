@@ -119,9 +119,8 @@ Postgraduate Advanced Computer Science student with commercial experience in dat
 
 ### Activity & Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CHARANSAI2003&show_icons=true&theme=nord&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Metrics" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHARANSAI2003&layout=compact&theme=nord&hide_border=true&cache_seconds=1800" alt="Top Languages" height="165" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,postgres,mysql,js,html,css,fastapi,flask,nextjs,docker,aws,linux,git,github,postman" alt="Tech Stack Icons" />
 </p>
 
 <p align="center">
