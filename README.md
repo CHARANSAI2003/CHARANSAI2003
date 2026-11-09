@@ -50,7 +50,7 @@
 
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="https://instagram.com/charan_sai110"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="https://www.linkedin.com/in/bathala-charansai-2003/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://www.hackerrank.com/@charansai2003110"><img src="https://skillicons.dev/icons?i=hackerrank" /></a>
 </p>
 
