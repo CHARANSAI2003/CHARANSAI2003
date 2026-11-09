@@ -119,24 +119,15 @@ Postgraduate Advanced Computer Science student with commercial experience in dat
 
 ### Activity & Statistics
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=CHARANSAI2003&show_icons=true&theme=nord&hide_border=true&count_private=true" width="100%" alt="GitHub Metrics" />
-      </td>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHARANSAI2003&layout=compact&theme=nord&hide_border=true" width="100%" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CHARANSAI2003&show_icons=true&theme=nord&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Metrics" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHARANSAI2003&layout=compact&theme=nord&hide_border=true&cache_seconds=1800" alt="Top Languages" height="165" />
+</p>
 
-  <br/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=CHARANSAI2003&theme=nord&hide_border=true" alt="GitHub Streak" height="165" />
+</p>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CHARANSAI2003&theme=nord&hide_border=true" width="60%" alt="GitHub Streak" />
-
-  <p align="center">
-    <br/>
-    <img src="https://komarev.com/ghpvc/?username=CHARANSAI2003&label=Profile%20Views&color=4C566A&style=flat-square" alt="Profile Views" />
-  </p>
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=CHARANSAI2003&label=Profile%20Views&color=4C566A&style=flat-square" alt="Profile Views" />
+</p>
