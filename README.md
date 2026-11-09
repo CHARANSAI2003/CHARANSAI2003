@@ -23,11 +23,11 @@
 
 ### Executive Profile
 
-Postgraduate Advanced Computer Science student with commercial experience in data analytics, backend Python engineering, and AI/ML model deployment[cite: 1]. Proven track record in building containerised LLM workflows, automated natural language-to-SQL query systems, and cryptographic packages[cite: 1]. Currently targeting Software Engineering and Machine Learning roles[cite: 1].
+Postgraduate Advanced Computer Science student with commercial experience in data analytics, backend Python engineering, and AI/ML model deployment. Proven track record in building containerised LLM workflows, automated natural language-to-SQL query systems, and cryptographic packages. Currently targeting Software Engineering and Machine Learning roles.
 
-- 🎓 **Education:** MSc in Advanced Computer Science[cite: 1] | B.E. in Computer Science & Engineering (8.74/10.0 CGPA)[cite: 1]
-- 🔬 **Core Focus:** NLP & LLMs, RAG Pipelines, High Performance Computing, Applied Cryptography, Distributed Systems[cite: 1]
-- 💼 **Prior Background:** Data Analyst at MyEdBuddy and Inrank Digital[cite: 1]
+- 🎓 **Education:** MSc in Advanced Computer Science | B.E. in Computer Science & Engineering (8.74/10.0 CGPA)
+- 🔬 **Core Focus:** NLP & LLMs, RAG Pipelines, High Performance Computing, Applied Cryptography, Distributed Systems
+- 💼 **Prior Background:** Data Analyst at MyEdBuddy and Inrank Digital
 
 ---
 
@@ -48,12 +48,12 @@ Postgraduate Advanced Computer Science student with commercial experience in dat
   <tr>
     <td><b>AI / Machine Learning</b></td>
     <td>
-      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" alt="LangChain" />
       <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
       <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
       <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-      <img src="https://img.shields.io/badge/LLaMA_Models-0467DF?style=flat-square&logo=meta&logoColor=white" alt="LLaMA" />
-      <img src="https://img.shields.io/badge/Weaviate-00D2B4?style=flat-square&logo=weaviate&logoColor=white" alt="Weaviate" />
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+      <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
     </td>
   </tr>
   <tr>
@@ -61,8 +61,8 @@ Postgraduate Advanced Computer Science student with commercial experience in dat
     <td>
       <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
       <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-      <img src="https://img.shields.io/badge/REST_APIs-02569B?style=flat-square&logo=google-cloud&logoColor=white" alt="APIs" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+      <img src="https://img.shields.io/badge/REST_APIs-02569B?style=flat-square&logo=postman&logoColor=white" alt="REST APIs" />
     </td>
   </tr>
   <tr>
@@ -85,25 +85,25 @@ Postgraduate Advanced Computer Science student with commercial experience in dat
   <tr>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/CHARANSAI2003">LangChain Chatbot with Vector Search</a></h4>
-      <p>Low-latency conversational agent built with <b>Groq API</b> and <b>LLaMA 3</b>[cite: 1]. Implements LangChain pipelines for multi-turn stateful memory, token streaming, and an interactive frontend interface[cite: 1].</p>
-      <p><code>FastAPI</code> <code>LLaMA 3</code> <code>Docker</code> <code>Weaviate</code>[cite: 1]</p>
+      <p>Low-latency conversational agent built with <b>Groq API</b> and <b>LLaMA 3</b>. Implements LangChain pipelines for multi-turn stateful memory, token streaming, and an interactive frontend interface.</p>
+      <p><code>FastAPI</code> <code>LLaMA 3</code> <code>Docker</code> <code>Weaviate</code></p>
     </td>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/CHARANSAI2003">Natural Language to SQL Query Engine</a></h4>
-      <p>End-to-end pipeline converting English queries into executable SQL[cite: 1]. Features strict schema-aware prompting, query validation, and automated text synthesis of raw database records[cite: 1].</p>
-      <p><code>Python</code> <code>LLaMA 2</code> <code>LangChain</code> <code>MySQL</code>[cite: 1]</p>
+      <p>End-to-end pipeline converting English queries into executable SQL. Features strict schema-aware prompting, query validation, and automated text synthesis of raw database records.</p>
+      <p><code>Python</code> <code>LLaMA 2</code> <code>LangChain</code> <code>MySQL</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/CHARANSAI2003">Python Encryption & Encoding Toolkit</a></h4>
-      <p>Open-source cryptographic toolkit supporting symmetric and asymmetric implementations (<b>AES, RSA, ECC</b>)[cite: 1]. Packaged for modular system integration and secure protocol workflows[cite: 1].</p>
-      <p><code>Python</code> <code>Cryptography</code> <code>Security</code>[cite: 1]</p>
+      <p>Open-source cryptographic toolkit supporting symmetric and asymmetric implementations (<b>AES, RSA, ECC</b>). Packaged for modular system integration and secure protocol workflows.</p>
+      <p><code>Python</code> <code>Cryptography</code> <code>Security</code></p>
     </td>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/CHARANSAI2003">Clinical Heart Disease Classifier</a></h4>
-      <p>Diagnostic ML model evaluating 13 clinical biomarkers to detect cardiac disease indicators[cite: 1]. Features preprocessing pipelines and an interactive inference interface[cite: 1].</p>
-      <p><code>Python</code> <code>Scikit-learn</code> <code>Pandas</code> <code>NumPy</code>[cite: 1]</p>
+      <p>Diagnostic ML model evaluating 13 clinical biomarkers to detect cardiac disease indicators. Features preprocessing pipelines and an interactive inference interface.</p>
+      <p><code>Python</code> <code>Scikit-learn</code> <code>Pandas</code> <code>NumPy</code></p>
     </td>
   </tr>
 </table>
@@ -112,8 +112,8 @@ Postgraduate Advanced Computer Science student with commercial experience in dat
 
 ### Highlights & Accreditations
 
-- **Certifications:** AWS Solutions Architecture Foundations | Introduction to Databases (SQL) | Programming Foundations: Python | Responsive Web Design[cite: 1]
-- **Honours & Competitions:** Centific Generative AI Hackathon Participant[cite: 1] | 3rd Place, Department Software Design Competition[cite: 1] | District Chess Gold Medalist[cite: 1]
+- **Certifications:** AWS Solutions Architecture Foundations | Introduction to Databases (SQL) | Programming Foundations: Python | Responsive Web Design
+- **Honours & Competitions:** Centific Generative AI Hackathon Participant | 3rd Place, Department Software Design Competition | District Chess Gold Medalist
 
 ---
 
